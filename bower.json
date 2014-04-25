@@ -1,7 +1,7 @@
 {
   "name": "angular-module-shim",
   "main": "angular-module-shim.js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "authors": [
     "jedrichards <jedrichards@gmail.com>"
   ],
