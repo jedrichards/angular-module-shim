@@ -18,7 +18,7 @@
         if ( registered ) {
             module = origFn(name);
             module.requires.push.apply(module.requires,requires);
-            // Invoke the config function if it exists.
+            // Register the config function if it exists.
             if (configFn) {
                 module.config(configFn);
             }
